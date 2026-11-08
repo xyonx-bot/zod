@@ -23,7 +23,7 @@
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://www.npmjs.com/package/zod">npm</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://deno.land/x/zod">deno</a>
+  <a href="https://jsr.io/@zod/zod">deno</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://github.com/colinhacks/zod/issues/new">이슈</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
